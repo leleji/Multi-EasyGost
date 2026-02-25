@@ -894,7 +894,6 @@ update_sh() {
   fi
 }
 
-update_sh
 echo && echo -e "                 gost 一键安装配置脚本"${Red_font_prefix}[${shell_version}]${Font_color_suffix}"
   ----------- KANIKIG -----------
   特性: (1)本脚本采用systemd及gost配置文件对gost进行管理
